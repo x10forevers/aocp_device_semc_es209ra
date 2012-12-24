@@ -1,0 +1,25 @@
+[
+    {
+        "account":      "CMX10",
+        "repository":   "android_device_semc_es209ra",
+        "target_path":  "device/semc/es209ra",
+        "revision":     "jellybean"
+    },
+    {
+        "account":      "PAC-man",
+        "repository":   "android_device_semc_msm7x30-common",
+        "target_path":  "device/semc/msm7x30-common",
+        "revision":     "jellybean"
+    },
+    {
+        "account":      "skritchz",
+        "repository":   "semc-kernel-qsd8k-ics",
+        "target_path":  "kernel/semc/qsd8k",
+        "revision":     "jellybean"
+    },
+    {
+        "account":      "CMX10",
+        "repository":   "proprietary_es209ra",
+        "target_path":  "vendor/semc/es209ra",
+        "revision":     "jellybean"
+    }
